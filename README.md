@@ -53,16 +53,13 @@ They requested evidence. I provided **everything**: complete chat logs, every br
 
 Let my experience be your lesson.
 
-1. **If a seller asks for a direct PayPal payment,** refuse.
-2. **If they insist on "Friends and Family,"** it is a scam. Walk away.
-3. **If they delay shipping beyond a reasonable timeframe,** file a dispute immediately.
+1. **If Burgduino asks for a direct PayPal payment,** refuse.
+2. **If he insist on "Friends and Family,"** it is a scam. Walk away.
+3. **If he delay shipping beyond a reasonable timeframe,** file a dispute immediately.
 
 **Burgduino Electronics** is still active. Do not let him do to you what he did to me.
 
 * https://x.com/Burgduino
 * https://www.tindie.com/stores/burgduino/
 * https://www.youtube.com/@BudgetSolarGR
-* e-mail burgduino@gmail.com
-
----
-**Adrian Mihalko**
+* e-mail burgduino AT gmail.com
